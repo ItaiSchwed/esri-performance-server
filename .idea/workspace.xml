@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4c5e53eb-a05d-4836-a4ee-59dae2708922" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bo8HlbvipjCAPO5I3BMEoaDPyP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="10.16.0" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/models" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="C:\Users\Itai\workspaces\node\esri-server\node_modules\typescript\lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Itai\workspaces\node\esri-server\src\models" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Itai\workspaces\node\esri-server\src\servers" />
+      <recent name="C:\Users\Itai\workspaces\node\esri-server\src\db" />
+      <recent name="C:\Users\Itai\workspaces\node\esri-server\src" />
+      <recent name="C:\Users\Itai\workspaces\node\esri-server\models" />
+      <recent name="C:\Users\Itai\workspaces\node\esri-server\db" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="rest2.ts" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/servers/rest2.ts" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.rest2.ts" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4c5e53eb-a05d-4836-a4ee-59dae2708922" name="Default Changelist" comment="" />
+      <created>1589287000237</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589287000237</updated>
+      <workItem from="1589287002529" duration="16334000" />
+      <workItem from="1589395827398" duration="39940000" />
+      <workItem from="1589796553625" duration="49422000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589287258160">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1589287258160" />
+    <state x="449" y="148" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1589796480957">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="449" y="148" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.824@0.0.1536.824" timestamp="1589796480957" />
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1589997251640">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1589997251640" />
+    <state x="491" y="82" key="#index.js" timestamp="1589401697411">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="491" y="82" key="#index.js/0.0.1536.824@0.0.1536.824" timestamp="1589401697411" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1589802644297">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1589802644297" />
+    <state width="1515" height="239" key="GridCell.Tab.0.bottom" timestamp="1589796489220">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="239" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1589796489220" />
+    <state width="1515" height="239" key="GridCell.Tab.0.center" timestamp="1589796489220">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="239" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1589796489220" />
+    <state width="1515" height="239" key="GridCell.Tab.0.left" timestamp="1589796489220">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="239" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1589796489220" />
+    <state width="1515" height="239" key="GridCell.Tab.0.right" timestamp="1589796489220">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="239" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1589796489220" />
+    <state width="1515" height="239" key="GridCell.Tab.1.bottom" timestamp="1589796489221">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="239" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1589796489221" />
+    <state width="1515" height="239" key="GridCell.Tab.1.center" timestamp="1589796489221">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="239" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1589796489221" />
+    <state width="1515" height="239" key="GridCell.Tab.1.left" timestamp="1589796489220">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="239" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1589796489220" />
+    <state width="1515" height="239" key="GridCell.Tab.1.right" timestamp="1589796489221">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="239" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1589796489221" />
+    <state width="1515" height="239" key="GridCell.Tab.2.bottom" timestamp="1589796489221">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="239" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1589796489221" />
+    <state width="1515" height="239" key="GridCell.Tab.2.center" timestamp="1589796489221">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="239" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1589796489221" />
+    <state width="1515" height="239" key="GridCell.Tab.2.left" timestamp="1589796489221">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="239" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1589796489221" />
+    <state width="1515" height="239" key="GridCell.Tab.2.right" timestamp="1589796489221">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="239" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1589796489221" />
+    <state width="1515" height="239" key="GridCell.Tab.3.bottom" timestamp="1589796489222">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="239" key="GridCell.Tab.3.bottom/0.0.1536.824@0.0.1536.824" timestamp="1589796489222" />
+    <state width="1515" height="239" key="GridCell.Tab.3.center" timestamp="1589796489221">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="239" key="GridCell.Tab.3.center/0.0.1536.824@0.0.1536.824" timestamp="1589796489221" />
+    <state width="1515" height="239" key="GridCell.Tab.3.left" timestamp="1589796489221">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="239" key="GridCell.Tab.3.left/0.0.1536.824@0.0.1536.824" timestamp="1589796489221" />
+    <state width="1515" height="239" key="GridCell.Tab.3.right" timestamp="1589796489221">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="239" key="GridCell.Tab.3.right/0.0.1536.824@0.0.1536.824" timestamp="1589796489221" />
+    <state x="453" y="128" width="629" height="568" key="find.popup" timestamp="1590013424131">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="453" y="128" width="629" height="568" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1590013424131" />
+    <state x="410" y="139" width="700" height="530" key="recent.locations.popup" timestamp="1589997376053">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="410" y="139" width="700" height="530" key="recent.locations.popup/0.0.1536.824@0.0.1536.824" timestamp="1589997376053" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1590013371159">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1590013371159" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1589997392854">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1589997392854" />
+  </component>
+</project>
